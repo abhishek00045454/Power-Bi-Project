@@ -22,6 +22,7 @@ author_project_link:https://github.com/abhishek00045454/Power-Bi-Project
 
 
 ### Table Realtion & outcome
-
-[table_image]-https://github.com/abhishek00045454/Power-Bi-Project/blob/master/Screenshot%20(334).png (many to one)
-[outcome_image]-https://github.com/abhishek00045454/Power-Bi-Project/blob/master/Screenshot%20(335).png
+```
+-[table_image]-https://github.com/abhishek00045454/Power-Bi-Project/blob/master/Screenshot%20(334).png (many to one)
+-[outcome_image]-https://github.com/abhishek00045454/Power-Bi-Project/blob/master/Screenshot%20(335).png
+```
